@@ -42,7 +42,7 @@ A visual representation of the pipeline (created in Lucidchart):
 1. Trigger and Test Pipelines: Insert new records into the SQL database and verify that the entire pipeline runs successfully, updating the Power BI dashboard.
 
 ## PowerBI Dashboard
-PowerBI Dasboard can be seen here below: [click this link to download](./ProductSalesAnalysis.pbix)
+PowerBI Dasboard screenshot can be seen below: [click this link to download](./ProductSalesAnalysis.pbix)
 .
 
 ![powerbi](https://github.com/radielazazy/azure-end-to-end-sales/blob/a3bf9627908cc2b62ccb022910df331ef34ab034/pics-for-readme/Screenshot%202025-02-13%20040005.png)
