@@ -1,3 +1,3 @@
-# Azure End-to-End Data Engineering Sales Analysis
+# Azure End-to-End Data Engineering Project - Sales Analysis
 This project tackles a vital (sample)business requirement by developing an end-to-end data pipeline on Azure. The objective is to extract customer and sales data from an on-premises SQL database, transform it in the cloud, and deliver actionable insights via a Power BI dashboard. The dashboard will showcase key performance indicators (KPIs) such as gender distribution and product category sales, enabling stakeholders to filter and analyze data by product category, and gender for informed decision-making. The Azure pipeline is designed as a batch processing system, with a feature to automatically refresh data every 24 hours (disabled due to server resource limitations)
 
