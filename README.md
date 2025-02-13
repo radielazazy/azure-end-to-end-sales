@@ -16,7 +16,7 @@ This project tackles a sample business requirement by developing an end-to-end d
 
 ## Database
 AdventureWorksLT2022 is a relational database simulating a real-world e-commerce business. It features rich sales, customer, product, and inventory data, supporting complex analytics, reporting, and business intelligence. With hierarchical product catalogs, order tracking, pricing models, and employee-vendor relationships, it’s an ideal dataset for demonstrating knowledge of SQL, ETL, and data-driven decision-making in enterprise environments.
-
+[click this link to download](https://github.com/radielazazy/azure-end-to-end-sales/blob/5d41ecb0261dc8d7676f53195fb427ee5437f2a5/sql-queries/AdventureWorksLT2022.bak)
 
 ## Steps for Setup
 ### Step 1: Azure Environment Setup
