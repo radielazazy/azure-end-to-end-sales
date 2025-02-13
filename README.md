@@ -3,3 +3,5 @@ This project tackles a vital (sample)business requirement by developing an end-t
 
 A visual representation of the pipeline (created in Lucidchart):
 
+
+![etl-pipeline]([image-url](https://github.com/radielazazy/azure-end-to-end-sales/blob/c8fdc90da2bdacc4b4227d9fb2453f186fced101/etl-pipeline.png))
