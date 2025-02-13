@@ -27,16 +27,16 @@ A visual representation of the pipeline (created in Lucidchart):
 ### Step 2: Data Ingestion
 1. Set up SQL Server: Setup SQL Server and SQL Server Management Studio (SSMS). Restore the AdventureWorks database.
 2. Ingest Data with ADF: Create pipelines in ADF to copy data from SQL Server to the bronze layer in ADLS.
-## Step 3: Data Transformation
+### Step 3: Data Transformation
 1. Mount Data Lake in Databricks: Configure Databricks to access ADLS.
 2. Transform Data: Use Databricks notebooks to clean and aggregate the data, moving it from bronze to silver and then to gold.
-## Step 4: Data Loading and Reporting
+### Step 4: Data Loading and Reporting
 1. Load Data into Synapse: Set up a Synapse SQL pool and load the gold data for analysis.
 2. Create Power BI Dashboard: Connect Power BI to Synapse and create visualizations based on business requirements.
-## Step 5: Automation and Monitoring
+### Step 5: Automation and Monitoring
 1. Schedule Pipelines: Use ADF to schedule the data pipelines to run daily.
 2. Monitor Pipeline Runs: Use the monitoring tools in ADF and Synapse to ensure successful pipeline execution.
-## Step 6: Security and Governance
+### Step 6: Security and Governance
 1. Manage Access: Set up role-based access control (RBAC) using Azure Entra ID (formerly Active Directory).
-## Step 7: End-to-End Testing
+### Step 7: End-to-End Testing
 1. Trigger and Test Pipelines: Insert new records into the SQL database and verify that the entire pipeline runs successfully, updating the Power BI dashboard.
