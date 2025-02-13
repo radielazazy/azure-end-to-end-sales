@@ -40,3 +40,6 @@ A visual representation of the pipeline (created in Lucidchart):
 1. Manage Access: Set up role-based access control (RBAC) using Azure Entra ID (formerly Active Directory).
 ### Step 7: End-to-End Testing
 1. Trigger and Test Pipelines: Insert new records into the SQL database and verify that the entire pipeline runs successfully, updating the Power BI dashboard.
+
+## PowerBI Dashboard
+PowerBI Dasboard can be seen here below: click this link to download.
