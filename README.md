@@ -43,3 +43,5 @@ A visual representation of the pipeline (created in Lucidchart):
 
 ## PowerBI Dashboard
 PowerBI Dasboard can be seen here below: click this link to download.
+
+![powerbi](https://github.com/radielazazy/azure-end-to-end-sales/blob/a3bf9627908cc2b62ccb022910df331ef34ab034/pics-for-readme/Screenshot%202025-02-13%20040005.png)
